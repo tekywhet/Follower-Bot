@@ -1,4 +1,4 @@
-# BotForSignup (GUI Mode)
+# FollowerBot (GUI Mode)
 
 A Java-based Selenium automation bot designed to automate the signup process for the MavenX platform using a **GUI browser**. This allows for better debugging and monitoring of the automation process as you can visually see the browser's actions.
 
